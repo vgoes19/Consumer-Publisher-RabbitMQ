@@ -1,6 +1,6 @@
 # Consumer-Publisher-RabbitMQ
 Implementando o conceito pub-sub (Publisher and Subscriber), funcionalidade de desacoplar completamente a comunicação entregrando a um message broker (RabbitMQ)
-Utilizando Procolo AMQP (protocolo avançado de enfileiramento de mensagens)
+utilizando Procolo AMQP (protocolo avançado de enfileiramento de mensagens)
 
 Termos:
 - Queue (filas onde as mensagens são armazenadas, basicamente o consumer)
